@@ -45,4 +45,11 @@ public class UserController {
 
         return response;
     }
+
+    @PostMapping("/list")
+    public Object list() {
+        APIResponse res = new APIResponse();
+        res.setData(userProfileRepository.findByUserName());
+        return res;
+    }
 }

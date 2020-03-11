@@ -12,4 +12,7 @@ public interface UserProfileRepository extends JpaRepository<UserProfile, Intege
 
     UserProfile findByUserNameAndPassWord(String userName, String passWord);
 
+    @Query(value = "select * from user_profile", nativeQuery = true)
+    List<UserProfile> findByUserName();
+
 }
