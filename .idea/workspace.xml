@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="181f809b-c7ec-408c-9152-88444f72d705" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/service/UserProfileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/service/UserProfileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +38,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -82,49 +95,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1170" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583908725295">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1605101124929">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1170" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583908725295" />
-    <state x="1130" y="179" key="FileChooserDialogImpl" timestamp="1583036916183">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605101124929" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1605107621256">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="804" y="127" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1582091382311" />
-    <state x="904" y="142" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582649454946" />
-    <state x="1130" y="179" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583036916183" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583912177085">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605107621256" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1605107621256">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1582092210364" />
-    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582882671463" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583912177085" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583912177084">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605107621256" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1605107621256">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1582092210363" />
-    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582882671462" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583912177084" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583912177084">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605107621256" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1605107621256">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1582092210363" />
-    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582882671462" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583912177084" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583912177085">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605107621256" />
+    <state x="440" y="99" key="SettingsEditor" timestamp="1605101949715">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1582092210363" />
-    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582882671463" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583912177084" />
-    <state x="165" y="18" key="SettingsEditor" timestamp="1581798229584">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="165" y="18" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581798229584" />
-    <state x="533" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1583036907654">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1582044409682" />
-    <state x="426" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582880263987" />
-    <state x="533" y="271" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583036907654" />
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605101949715" />
   </component>
 </project>
